@@ -37,16 +37,16 @@
 
 /* Begin PBXFileReference section */
 		42433E332B9FBF2C0058D6CD /* TriviaGameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriviaGameViewController.swift; sourceTree = "<group>"; };
-		9926AB2029DFAE1400860532 /* 2024 Oscar Trivia.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "2024 Oscar Trivia.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9926AB2029DFAE1400860532 /* Oscar Trivia '24.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Oscar Trivia '24.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9926AB2329DFAE1400860532 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9926AB2529DFAE1400860532 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		9926AB2A29DFAE1400860532 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9926AB2C29DFAE1400860532 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9926AB2F29DFAE1400860532 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9926AB3129DFAE1400860532 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9926AB3629DFAE1500860532 /* 2024 Oscar TriviaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "2024 Oscar TriviaTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9926AB3629DFAE1500860532 /* Oscar Trivia '24Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Oscar Trivia '24Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9926AB3A29DFAE1500860532 /* TriviaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriviaTests.swift; sourceTree = "<group>"; };
-		9926AB4029DFAE1500860532 /* 2024 Oscar TriviaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "2024 Oscar TriviaUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9926AB4029DFAE1500860532 /* Oscar Trivia '24UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Oscar Trivia '24UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9926AB4429DFAE1500860532 /* TriviaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriviaUITests.swift; sourceTree = "<group>"; };
 		9926AB4629DFAE1500860532 /* TriviaUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriviaUITestsLaunchTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -89,9 +89,9 @@
 		9926AB2129DFAE1400860532 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9926AB2029DFAE1400860532 /* 2024 Oscar Trivia.app */,
-				9926AB3629DFAE1500860532 /* 2024 Oscar TriviaTests.xctest */,
-				9926AB4029DFAE1500860532 /* 2024 Oscar TriviaUITests.xctest */,
+				9926AB2029DFAE1400860532 /* Oscar Trivia '24.app */,
+				9926AB3629DFAE1500860532 /* Oscar Trivia '24Tests.xctest */,
+				9926AB4029DFAE1500860532 /* Oscar Trivia '24UITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -130,9 +130,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		9926AB1F29DFAE1400860532 /* 2024 Oscar Trivia */ = {
+		9926AB1F29DFAE1400860532 /* Oscar Trivia '24 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9926AB4A29DFAE1500860532 /* Build configuration list for PBXNativeTarget "2024 Oscar Trivia" */;
+			buildConfigurationList = 9926AB4A29DFAE1500860532 /* Build configuration list for PBXNativeTarget "Oscar Trivia '24" */;
 			buildPhases = (
 				9926AB1C29DFAE1400860532 /* Sources */,
 				9926AB1D29DFAE1400860532 /* Frameworks */,
@@ -142,14 +142,14 @@
 			);
 			dependencies = (
 			);
-			name = "2024 Oscar Trivia";
+			name = "Oscar Trivia '24";
 			productName = Trivia;
-			productReference = 9926AB2029DFAE1400860532 /* 2024 Oscar Trivia.app */;
+			productReference = 9926AB2029DFAE1400860532 /* Oscar Trivia '24.app */;
 			productType = "com.apple.product-type.application";
 		};
-		9926AB3529DFAE1500860532 /* 2024 Oscar TriviaTests */ = {
+		9926AB3529DFAE1500860532 /* Oscar Trivia '24Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9926AB4D29DFAE1500860532 /* Build configuration list for PBXNativeTarget "2024 Oscar TriviaTests" */;
+			buildConfigurationList = 9926AB4D29DFAE1500860532 /* Build configuration list for PBXNativeTarget "Oscar Trivia '24Tests" */;
 			buildPhases = (
 				9926AB3229DFAE1500860532 /* Sources */,
 				9926AB3329DFAE1500860532 /* Frameworks */,
@@ -160,14 +160,14 @@
 			dependencies = (
 				9926AB3829DFAE1500860532 /* PBXTargetDependency */,
 			);
-			name = "2024 Oscar TriviaTests";
+			name = "Oscar Trivia '24Tests";
 			productName = TriviaTests;
-			productReference = 9926AB3629DFAE1500860532 /* 2024 Oscar TriviaTests.xctest */;
+			productReference = 9926AB3629DFAE1500860532 /* Oscar Trivia '24Tests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		9926AB3F29DFAE1500860532 /* 2024 Oscar TriviaUITests */ = {
+		9926AB3F29DFAE1500860532 /* Oscar Trivia '24UITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9926AB5029DFAE1500860532 /* Build configuration list for PBXNativeTarget "2024 Oscar TriviaUITests" */;
+			buildConfigurationList = 9926AB5029DFAE1500860532 /* Build configuration list for PBXNativeTarget "Oscar Trivia '24UITests" */;
 			buildPhases = (
 				9926AB3C29DFAE1500860532 /* Sources */,
 				9926AB3D29DFAE1500860532 /* Frameworks */,
@@ -178,9 +178,9 @@
 			dependencies = (
 				9926AB4229DFAE1500860532 /* PBXTargetDependency */,
 			);
-			name = "2024 Oscar TriviaUITests";
+			name = "Oscar Trivia '24UITests";
 			productName = TriviaUITests;
-			productReference = 9926AB4029DFAE1500860532 /* 2024 Oscar TriviaUITests.xctest */;
+			productReference = 9926AB4029DFAE1500860532 /* Oscar Trivia '24UITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -206,7 +206,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 9926AB1B29DFAE1300860532 /* Build configuration list for PBXProject "2024 Oscar Trivia" */;
+			buildConfigurationList = 9926AB1B29DFAE1300860532 /* Build configuration list for PBXProject "Oscar Trivia '24" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -219,9 +219,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				9926AB1F29DFAE1400860532 /* 2024 Oscar Trivia */,
-				9926AB3529DFAE1500860532 /* 2024 Oscar TriviaTests */,
-				9926AB3F29DFAE1500860532 /* 2024 Oscar TriviaUITests */,
+				9926AB1F29DFAE1400860532 /* Oscar Trivia '24 */,
+				9926AB3529DFAE1500860532 /* Oscar Trivia '24Tests */,
+				9926AB3F29DFAE1500860532 /* Oscar Trivia '24UITests */,
 			);
 		};
 /* End PBXProject section */
@@ -286,12 +286,12 @@
 /* Begin PBXTargetDependency section */
 		9926AB3829DFAE1500860532 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 9926AB1F29DFAE1400860532 /* 2024 Oscar Trivia */;
+			target = 9926AB1F29DFAE1400860532 /* Oscar Trivia '24 */;
 			targetProxy = 9926AB3729DFAE1500860532 /* PBXContainerItemProxy */;
 		};
 		9926AB4229DFAE1500860532 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 9926AB1F29DFAE1400860532 /* 2024 Oscar Trivia */;
+			target = 9926AB1F29DFAE1400860532 /* Oscar Trivia '24 */;
 			targetProxy = 9926AB4129DFAE1500860532 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -499,7 +499,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/2024 Oscar Trivia.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/2024 Oscar Trivia";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Oscar Trivia '24.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Oscar Trivia '24";
 			};
 			name = Debug;
 		};
@@ -518,7 +518,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/2024 Oscar Trivia.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/2024 Oscar Trivia";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Oscar Trivia '24.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Oscar Trivia '24";
 			};
 			name = Release;
 		};
@@ -559,7 +559,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9926AB1B29DFAE1300860532 /* Build configuration list for PBXProject "2024 Oscar Trivia" */ = {
+		9926AB1B29DFAE1300860532 /* Build configuration list for PBXProject "Oscar Trivia '24" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9926AB4829DFAE1500860532 /* Debug */,
@@ -568,7 +568,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9926AB4A29DFAE1500860532 /* Build configuration list for PBXNativeTarget "2024 Oscar Trivia" */ = {
+		9926AB4A29DFAE1500860532 /* Build configuration list for PBXNativeTarget "Oscar Trivia '24" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9926AB4B29DFAE1500860532 /* Debug */,
@@ -577,7 +577,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9926AB4D29DFAE1500860532 /* Build configuration list for PBXNativeTarget "2024 Oscar TriviaTests" */ = {
+		9926AB4D29DFAE1500860532 /* Build configuration list for PBXNativeTarget "Oscar Trivia '24Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9926AB4E29DFAE1500860532 /* Debug */,
@@ -586,7 +586,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9926AB5029DFAE1500860532 /* Build configuration list for PBXNativeTarget "2024 Oscar TriviaUITests" */ = {
+		9926AB5029DFAE1500860532 /* Build configuration list for PBXNativeTarget "Oscar Trivia '24UITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9926AB5129DFAE1500860532 /* Debug */,
