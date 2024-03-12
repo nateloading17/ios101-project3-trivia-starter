@@ -1,10 +1,10 @@
 # ios101-project3-trivia-starter
 
-# Project 3 - *Oscar Trivia '24*
+# Project 3 - *Trivia*
 
 Submitted by: **Nathaniel Baez**
 
-**Name of your app** is an app that ... [TODO] 
+**Oscar Trivia '24** is an app that quizzes the user's knowledge on Academy Awards won in 2024. 
 
 Time spent: **6** hours spent in total
 
